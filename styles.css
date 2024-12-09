@@ -44,7 +44,7 @@ body {
 }
 
 .project {
-    margin: 15px;
+    margin: 12px;
     width: calc(33.33% - 30px);
     background-color: #fff;
     border-radius: 10px;
